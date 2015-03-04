@@ -92,7 +92,7 @@ Utiliza siempre `$i` como nombre de variable para mantener la convención habitu
 También asegúrate de respetar estas directrices para preservar la legibilidad:
 
 * Deja siempre una línea en blanco antes de `@each`;
-* DEja siempre una línea en blanco después de la llave de cierre (`}`) a no ser que la siguiente línea sea otra llave de cierre (`}`).
+* Deja siempre una línea en blanco después de la llave de cierre (`}`) a no ser que la siguiente línea sea otra llave de cierre (`}`).
 
 
 
